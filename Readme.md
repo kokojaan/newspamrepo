@@ -1,7 +1,7 @@
-# 【BAAP JII 🔥】 【De𝘃𝗶𝗹 🥵】 【CHODNE】 【KI】 【MACHINE】
+# 【🅑🅐🅐🅟 🅙🅘 🅧 🅚🅞🅚🅞🔥】 
 ## 🚀 Deploy on Heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Darupary/Devilspamprivate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kokojaan/newspamrepo)
 
 ## String Session FOR  BOT AND IDS 
 
