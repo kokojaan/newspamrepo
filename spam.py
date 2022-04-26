@@ -312,7 +312,7 @@ ALIVE_PIC = "https://telegra.ph/file/169ced909cf18cda9bef2.png"
 import os
 lucifer = os.environ.get("ALIVE_PIC",None)
 if not lucifer:
- lucifer ="https://telegra.ph/file/169ced909cf18cda9bef2.png"
+ lucifer ="https://te.legra.ph/file/3e92fe33932d9d417d57f.mp4"
 @luc.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @luc2.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
 @luc3.on(events.NewMessage(incoming=True, pattern=r"\.alive"))
